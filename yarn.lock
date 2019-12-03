@@ -7709,10 +7709,10 @@ prop-types@^15.6.2, prop-types@^15.7.2:
     object-assign "^4.1.1"
     react-is "^16.8.1"
 
-proper-url-join@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.npmjs.org/proper-url-join/-/proper-url-join-2.0.1.tgz#f211f51ad05b1109d06ef065070b0d1452435ba8"
-  integrity sha512-8P6yzkvSa7lrq8g8S0DgOwtmhq7WQUIPJLMNNEjJmB254fxPc+w/ahhvDk5mPWteswv3IR1Jhd9QkX4dC71drw==
+proper-url-join@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/proper-url-join/-/proper-url-join-2.1.1.tgz#ee4146edc08f512a0ee1053a355e06950691d06f"
+  integrity sha512-40x6taKMwsDn4TrWx4YvnVxv5mO1O9KUrbK/jx8N0oDYf38ZFUK/OHNSAwTvu7Aj+cQcjBuf5aDh5R328YrrXg==
   dependencies:
     query-string "^6.3.0"
 
