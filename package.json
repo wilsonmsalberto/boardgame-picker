@@ -60,7 +60,7 @@
     "url-loader": "4.1.1",
     "webpack": "5.24.4",
     "webpack-dev-server": "3.11.2",
-    "webpack-manifest-plugin": "2.2.0",
+    "webpack-manifest-plugin": "3.0.0",
     "workbox-webpack-plugin": "5.1.4",
     "xml-js": "1.6.11"
   },
