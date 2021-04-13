@@ -61,7 +61,7 @@
     "webpack": "5.24.4",
     "webpack-dev-server": "3.11.2",
     "webpack-manifest-plugin": "3.0.0",
-    "workbox-webpack-plugin": "6.1.1",
+    "workbox-webpack-plugin": "6.1.5",
     "xml-js": "1.6.11"
   },
   "scripts": {
